@@ -33,15 +33,15 @@
             },
             {
               "name": "order",
-              "value": "price_change_percentage_24h_desc"
+              "value": "market_cap_desc"
             },
             {
               "name": "per_page",
-              "value": "1"
+              "value": "3"
             },
             {
               "name": "page",
-              "value": "25"
+              "value": "1"
             },
             {
               "name": "sparkline",
